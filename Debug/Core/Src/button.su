@@ -1,0 +1,4 @@
+button.c:30:6:readButton	16	static
+button.c:72:6:subKeyProcess	16	static
+button.c:82:5:isBtnPress	16	static
+button.c:90:5:isBtnLongPress	16	static

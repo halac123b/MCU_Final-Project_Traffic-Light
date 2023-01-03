@@ -1,0 +1,3 @@
+testIO.c:12:6:testButton	8	static
+testIO.c:34:6:testPd	8	static
+testIO.c:41:6:testBuzzer	8	static

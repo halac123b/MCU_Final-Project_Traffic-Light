@@ -1,0 +1,9 @@
+timer.c:13:19:timerUnitConstruct	24	static
+timer.c:23:6:timerUnitDestruct	16	static
+timer.c:27:6:SCH_ListAdd	32	static
+timer.c:68:6:SCH_Pop	16	static
+timer.c:78:6:initTimer	4	static
+timer.c:83:6:runTimer	16	static
+timer.c:101:6:setTimerDuration	24	static
+timer.c:106:9:checkTimerFlag	16	static
+timer.c:115:6:clearTimer	24	static

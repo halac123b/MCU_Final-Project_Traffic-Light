@@ -1,0 +1,10 @@
+fsmTraffic.c:16:6:initTraffic	4	static
+fsmTraffic.c:24:10:getTrafficCurrDur	4	static
+fsmTraffic.c:29:6:sendTrafficDuration	8	static
+fsmTraffic.c:37:6:fsmAutoA	8	static
+fsmTraffic.c:91:6:fsmAutoB	8	static
+fsmTraffic.c:135:6:fsmManual	8	static
+fsmTraffic.c:188:6:increaseDuration	16	static
+fsmTraffic.c:194:6:fsmSet	8	static
+fsmTraffic.c:269:6:fsmTraffic	8	static
+fsmTraffic.c:375:9:isSetMode	4	static

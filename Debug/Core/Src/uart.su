@@ -1,0 +1,2 @@
+uart.c:12:6:initUart	8	static
+uart.c:18:6:sendUartNumber	16	static

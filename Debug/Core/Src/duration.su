@@ -1,0 +1,4 @@
+duration.c:11:6:initDuration	8	static
+duration.c:16:6:setDuration	16	static
+duration.c:20:10:getDuration	24	static
+duration.c:25:6:runDuration	4	static
